@@ -1,0 +1,71 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Coverage reports
+.coverage
+
+# Test output
+nosetests.xml
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Sphinx documentation
+docs/_build/
+
+# PyCharm project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+# Windows system files
+Thumbs.db
+
+# Environment variables
+.env
+
+# Yaml files
+*.yaml
+*.yml
+
+# Docker files
+Dockerfile
+docker-compose.yml
+
+# Temporary files
+*.tmp
+
+# Backup files
+*.bak
+
+# Readme files
+README.md
+
+# CSV files
+*.csv
+
+# JSON files
+*.json
+
+# UV lock
+uv.lock
