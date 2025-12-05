@@ -48,10 +48,6 @@ Thumbs.db
 *.yaml
 *.yml
 
-# Docker files
-Dockerfile
-docker-compose.yml
-
 # Temporary files
 *.tmp
 
